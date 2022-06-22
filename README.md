@@ -1,5 +1,5 @@
 # Car-Recommendation-Expert-system
-This prolog-based expert system can be used to create an application that recommends the user to purchase the best car possible based on their unique preferences and also provides a thorough description of the suggested car..
+This prolog-based expert system can be used to create an application that recommends the user to purchase the best car possible based on their unique preferences and also provides a thorough description of the suggested car.
 
 ### Snapshot of running program:
 
